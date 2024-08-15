@@ -1,6 +1,5 @@
 ### Hi there
 
-- Now this account is mainly for Intel internal projects use, so there will not be too many public commits. There are also some repos during my university career on this account, which have stopped maintenance. They should all be free to use, but cooperation projects may need to check the license;
-- If there are questions, you can contact my private email (vencifreeman@outlook.com), but please expect few responses, thanks for understanding;
-- In general, I am a hardware-biased engineer now. I’m currently working on Intel server platform development, mainly on FPGA/CPLD development, so I use Verilog/SystemVerilog heavily. I also write some C/C++/Python scripts, but mostly for interests;
-- I’m currently learning server platform design methodology and the code implementation of various firmware (CPLD, BIOS, BMC, etc.).
+- This account is primarily for Intel internal projects, so there will not be many public commits. There are also some repositories from my university days that are no longer maintained. They should be free to use, but please check the license for the collaboration repositories;
+- If you have any questions, you can reach out to my personal email (vencifreeman@outlook.com), but please expect infrequent or no responses since these projects are from several years ago, thanks for your understanding;
+- In general, I'm a hardware-focused engineer currently working on Intel server platform customized solutions. My work mainly involves FPGA/CPLD solutions, power sequence details, server platform design methodologies and implementation, and system debugging on both hardware and firmware. So I frequently use Verilog, and also write some C/C++/Python scripts, mostly out of interests.
